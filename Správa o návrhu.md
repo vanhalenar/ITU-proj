@@ -20,7 +20,7 @@ tu budú všetky otázky a poznatky získané z nich
 ## Analýza požiadaviek (Timotej Halenár)
 tu budú získané poznatky z prieskumu
 ### Planta: analýza aplikácie
-tu budú popísané prednosti a nedostatky aplikácie Planta
+Hneď po otvorení aplikácie Planta sa užívateľovi zobrazí prehľad povinností pre aktuálny deň, čím je okamžite jasný hlavný účel aplikácie. Jedným kliknutím je možné zaznačiť, že rastlina bola poliata, ale chýbala možnosť odložiť polievanie, ak užívateľ akurát nemá možnosť (napr. nie je doma). V Plante si užívateľ drží databázu svojich kvetov, ktoré sú rozdelené do skupín podľa miestností. Pre túto funkcionalitu som pri vlastnom testovaní aplikácie nenašiel využitie, skôr som mal dojem, že ide o zbytočnú komplikáciu. Bodom inšpirácie sa stal navigačný bar a teda členenie aplikácie do stránok - domovská stránka, prehľad rastlín, vyhľadávanie. Pridali sme kalendár, ktorý obsahuje prehľad naplánovaných polievaní na nadchádzajúce týždne.
 
 ## Analýza požiadaviek (Karolína Pirohová)
 tu budú získané poznatky z prieskumu
